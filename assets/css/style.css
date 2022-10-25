@@ -1,0 +1,122 @@
+.registration{
+    position: absolute;
+    margin-left: 400px;
+ }
+ h2::after{
+     content: "";
+     position:absolute;
+     right: 0px;
+     width: 125px;
+     height: 5px;
+     background-color:red;
+     bottom:5px;
+ }
+ #login{
+     position: absolute;
+     margin-top: 80px;
+ }
+ #full-name{
+     width: 200px;
+     height: 25px;
+ }
+ #full-name:hover{
+     background-color:cyan;
+ }
+ #username{
+     width: 200px;
+     height: 25px;
+ }
+ #username:hover{
+     background-color:aqua;
+     
+ }
+ #email{
+     width: 200px;
+     height: 25px;
+ }
+ #email:hover{
+     background-color:cyan;
+ }
+ #phone-number{
+     width: 200px;
+     height: 25px;
+ }
+ #phone-number:hover{
+     background-color:cyan;
+ }
+ #password{
+     width: 200px;
+     height: 25px;
+ }
+ #password:hover{
+     background-color:cyan;
+ }
+ #confrim-password{
+     width: 200px;
+     height: 25px;
+ }
+ #confrim-password:hover{
+     background-color:cyan;
+ }
+ .fullname{
+     position: absolute;
+     margin-left: 200px;
+ }
+ .user-name{
+     position: absolute;
+     margin-left: 500px;
+ }
+ .mail{
+     position: absolute;
+     margin-top: 80px;
+     margin-left: 200px; 
+ }
+ .phone-num{
+     position: absolute;
+     margin-top: 80px;
+     margin-left: 500px;   
+ }
+ .passwords{
+     position: absolute;
+     margin-left: 200px;
+     margin-top: 160px;
+ }
+ .confrim{
+     position: absolute;
+     margin-left: 500px;
+     margin-top: 160px;
+ }
+ .gender{
+     margin-left: 200px;
+     margin-top: 270px;
+ }
+ #first-choose{
+     margin-left:0px;
+ }
+ #second-choose{
+     margin-left: 100px; 
+ }
+ #third-second{
+     margin-left: 150px;
+ }
+ .register{
+     position: absolute;
+     margin-left: 200px;
+     margin-top: 50px;
+ }
+ #reg{
+     width: 510px;
+     height: 30px;
+     background-color: coral;
+ }
+ #reg:hover{
+ background-color: blue;
+ }
+ #all{
+     border: 60px solid chocolate;
+     height: 600px; 
+ }
+ #login{
+     position: absolute;
+     margin-left: 200px;
+ }
